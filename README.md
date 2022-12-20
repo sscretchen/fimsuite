@@ -23,7 +23,7 @@ captureTheHash.py
 hashIt.py
 ```
 
-> PLEASE NOTE - SHA1 was only chosen for its speed. This is a cryptographically broken hash function and I would NOT use, or recommend this in production environments
+> PLEASE NOTE - SHA1 was only chosen for its speed. Depending on whats being hashed, I would choose SHA2, Argon2 etc. in a production environment.
 
 | Feature | Status | Notes |
 |:--- | :---: |:--- |
