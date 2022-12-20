@@ -89,7 +89,7 @@ File Deletion. This alert can trigger if files in the baseline are deleted or si
 </p>
 <p align="center">
 2 - Bulk of capture file
-<img alt="python program start" width="auto" height="300" src="https://user-images.githubusercontent.com/54426511/208776442-c533f9de-6c26-4fa6-bd9f-d529a064c3e3.PNG">
+<img alt="python program start" width="auto" height="400" src="https://user-images.githubusercontent.com/54426511/208781722-38c5a377-2d8a-48f4-b3d6-91ea612a2f35.PNG">
 </p>
 <p align="center">
 3 - Locate directory to monitor and run captureTheHash.py
@@ -97,4 +97,3 @@ File Deletion. This alert can trigger if files in the baseline are deleted or si
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-# fimsuite
