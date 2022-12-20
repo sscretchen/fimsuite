@@ -1,0 +1,376 @@
+****************************************************************
+
+THIS IS THE COMMIT HISTORY FROM MY SINCE CORRUPTED REPO. OOPS...
+
+****************************************************************
+
+cyber@CYBERSCRETCH MINGW64 ~/Desktop/fimsuiteDNU (master)
+$ git log
+commit 74b57470ac8dac1db79f89c3fb472a97f6576b55 (HEAD -> master, origin/master, origin/HEAD)
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Tue Dec 20 17:16:32 2022 -0500
+
+    Update README.md
+
+commit 4c0ee57b6ca8721fb83377283203b7c24a2a578c
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Tue Dec 20 17:14:03 2022 -0500
+
+    Update README.md
+
+commit fc2fe0fc1d8cbfbf9111aa5ab0a802181ba95033
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 23:50:09 2022 -0500
+
+    Update README.md
+
+commit fe67d8e6b581077809796a9120cee1100cb7e186
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 23:35:40 2022 -0500
+
+    Update README.md
+
+commit 6395429126b8170296e04cb1869068040fa1b61d
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 23:11:02 2022 -0500
+
+    Update README.md
+
+commit 6265357e84474a6353b96f5cfd893bdb6be9855e
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Mon Dec 19 18:38:59 2022 -0500
+
+    program captures specified file and hashes it
+
+commit 3a1dcaa8267695b8843f93ae4d2d3853140f7e57
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 18:28:05 2022 -0500
+
+    Update README.md
+
+commit 1c70abb9735a5f02017c5e2c549e3c34020ff7c4
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 18:26:58 2022 -0500
+
+    Update README.md
+
+commit 9d95d2bfca31edd516d477d2e3f1cfc04a5e2397
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 13:10:25 2022 -0500
+
+    Update README.md
+
+commit 41012e1fbb4d1c5356a3c54823ca9bd1de8948ca
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 13:07:22 2022 -0500
+
+    Update README.md
+
+commit 5ec38963568e61c074ce970e370e8e116d36b092
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 02:45:24 2022 -0500
+
+    Update README.md
+
+commit f1024461bcaafe723fee45e5765891f1c5ab79a1
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 02:37:53 2022 -0500
+
+    Update README.md
+
+commit bb4d8010a9c4c68082af80703a99b79380f78df8
+Merge: 639a3be 637008e
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Mon Dec 19 02:33:03 2022 -0500
+
+    Added Python folder, tested hash module
+
+commit 639a3be0d5e8c026fee564b7ff2773dd012cd647
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Mon Dec 19 02:31:58 2022 -0500
+
+    Added Python folder, tested hash module
+
+commit 637008e97a134153e9193d4a3ee583c4c50b3ff7
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 02:20:27 2022 -0500
+
+    Update README.md
+
+commit 133e340e8577c3e354f29e2045c295a44752339b
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 01:17:27 2022 -0500
+
+    Update README.md
+
+commit 2404db60920128ab7a28799feea17b107668060c
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Sun Dec 18 17:22:05 2022 -0500
+
+    Update README.md
+
+commit d966253678c5a9db9e32382f6798313d47af5e72
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Sun Dec 18 17:01:20 2022 -0500
+
+    Proof of concept complete. program functions passed testing
+
+commit ec264c94c90751003409f5f201c7a8207bf5f013
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Sun Dec 18 10:48:00 2022 -0500
+
+    created data structure function from baseline file
+
+commit 5c3d479cde60acd88e034f9bcde1f2a6992bb08a
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Sat Dec 17 20:19:47 2022 -0500
+
+    Update README.md
+
+commit 7223a74668562fe51d6d2e1c59b80ce350813760
+Merge: 4f09517 d75050b
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Sat Dec 17 20:15:59 2022 -0500
+
+    Merge branch 'master' of https://github.com/sscretchen/fimsuite
+
+commit 4f0951705e0a5921878626a902c0798dbc1f6f3d
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Sat Dec 17 20:15:49 2022 -0500
+
+    Updating tool name
+
+commit d75050b59e4b5fabd644c711e430eb9ce15f7d11
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Fri Dec 16 00:31:08 2022 -0500
+
+    Update README.md
+
+commit 0ef3c577fcced2b0a62b400afd69d5295ad88866
+
+commit 0ef3c577fcced2b0a62b400afd69d5295ad88866
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Fri Dec 16 00:07:27 2022 -0500
+
+    Update README.md
+
+commit 11dad7cd3233b79f31d074ca10e4bcac63613f86
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Fri Dec 16 00:03:35 2022 -0500
+
+    Removed test file. Hash function confirmed
+
+commit 6f24bebd7cccfc9e6b6248d56390a0504237ef4d
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Fri Dec 16 00:00:13 2022 -0500
+
+    First commit
+
+commit 5cc513aeda0cb9f10ea50767d5abf86983d7dc11
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Thu Dec 15 23:19:09 2022 -0500
+
+    Update README.md
+
+commit 9c21a1bc4ea92254625a46059c30d9c8ae5dd53d
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Thu Dec 15 22:24:54 2022 -0500
+
+    Update README.md
+
+commit 023a28fa22c5492cf2b248f41460577085149dfc
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Thu Dec 15 22:19:36 2022 -0500
+
+cyber@CYBERSCRETCH MINGW64 ~/Desktop/fimsuiteDNU (master)
+$ touch git log loghistory.txt
+
+cyber@CYBERSCRETCH MINGW64 ~/Desktop/fimsuiteDNU (master)
+$ echo git log loghistory.txt
+git log loghistory.txt
+
+cyber@CYBERSCRETCH MINGW64 ~/Desktop/fimsuiteDNU (master)
+$ cls
+bash: cls: command not found
+
+cyber@CYBERSCRETCH MINGW64 ~/Desktop/fimsuiteDNU (master)
+$
+
+cyber@CYBERSCRETCH MINGW64 ~/Desktop/fimsuiteDNU (master)
+$ git log
+commit 74b57470ac8dac1db79f89c3fb472a97f6576b55 (HEAD -> master, origin/master, origin/HEAD)
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Tue Dec 20 17:16:32 2022 -0500
+
+    Update README.md
+
+commit 4c0ee57b6ca8721fb83377283203b7c24a2a578c
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Tue Dec 20 17:14:03 2022 -0500
+
+    Update README.md
+
+commit fc2fe0fc1d8cbfbf9111aa5ab0a802181ba95033
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 23:50:09 2022 -0500
+
+    Update README.md
+
+commit fe67d8e6b581077809796a9120cee1100cb7e186
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 23:35:40 2022 -0500
+
+    Update README.md
+
+commit 6395429126b8170296e04cb1869068040fa1b61d
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 23:11:02 2022 -0500
+
+    Update README.md
+
+commit 6265357e84474a6353b96f5cfd893bdb6be9855e
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Mon Dec 19 18:38:59 2022 -0500
+
+    program captures specified file and hashes it
+
+commit 3a1dcaa8267695b8843f93ae4d2d3853140f7e57
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 18:28:05 2022 -0500
+
+    Update README.md
+
+commit 1c70abb9735a5f02017c5e2c549e3c34020ff7c4
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 18:26:58 2022 -0500
+
+    Update README.md
+
+commit 9d95d2bfca31edd516d477d2e3f1cfc04a5e2397
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 13:10:25 2022 -0500
+
+    Update README.md
+
+commit 41012e1fbb4d1c5356a3c54823ca9bd1de8948ca
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 13:07:22 2022 -0500
+
+    Update README.md
+
+commit 5ec38963568e61c074ce970e370e8e116d36b092
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 02:45:24 2022 -0500
+
+    Update README.md
+
+commit f1024461bcaafe723fee45e5765891f1c5ab79a1
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 02:37:53 2022 -0500
+
+    Update README.md
+
+commit bb4d8010a9c4c68082af80703a99b79380f78df8
+Merge: 639a3be 637008e
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Mon Dec 19 02:33:03 2022 -0500
+
+    Added Python folder, tested hash module
+
+commit 639a3be0d5e8c026fee564b7ff2773dd012cd647
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Mon Dec 19 02:31:58 2022 -0500
+
+    Added Python folder, tested hash module
+
+commit 637008e97a134153e9193d4a3ee583c4c50b3ff7
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 02:20:27 2022 -0500
+
+    Update README.md
+
+commit 133e340e8577c3e354f29e2045c295a44752339b
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Mon Dec 19 01:17:27 2022 -0500
+
+    Update README.md
+
+commit 2404db60920128ab7a28799feea17b107668060c
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Sun Dec 18 17:22:05 2022 -0500
+
+    Update README.md
+
+commit d966253678c5a9db9e32382f6798313d47af5e72
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Sun Dec 18 17:01:20 2022 -0500
+
+    Proof of concept complete. program functions passed testing
+
+commit ec264c94c90751003409f5f201c7a8207bf5f013
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Sun Dec 18 10:48:00 2022 -0500
+
+    created data structure function from baseline file
+
+commit 5c3d479cde60acd88e034f9bcde1f2a6992bb08a
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Sat Dec 17 20:19:47 2022 -0500
+
+    Update README.md
+
+commit 7223a74668562fe51d6d2e1c59b80ce350813760
+Merge: 4f09517 d75050b
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Sat Dec 17 20:15:59 2022 -0500
+
+    Merge branch 'master' of https://github.com/sscretchen/fimsuite
+
+commit 4f0951705e0a5921878626a902c0798dbc1f6f3d
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Sat Dec 17 20:15:49 2022 -0500
+
+    Updating tool name
+
+commit d75050b59e4b5fabd644c711e430eb9ce15f7d11
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Fri Dec 16 00:31:08 2022 -0500
+
+    Update README.md
+
+commit 0ef3c577fcced2b0a62b400afd69d5295ad88866
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Fri Dec 16 00:07:27 2022 -0500
+
+    Update README.md
+
+commit 11dad7cd3233b79f31d074ca10e4bcac63613f86
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Fri Dec 16 00:03:35 2022 -0500
+
+    Removed test file. Hash function confirmed
+
+commit 6f24bebd7cccfc9e6b6248d56390a0504237ef4d
+Author: sscretchen <sjscretchen@gmail.com>
+Date:   Fri Dec 16 00:00:13 2022 -0500
+
+    First commit
+
+commit 5cc513aeda0cb9f10ea50767d5abf86983d7dc11
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Thu Dec 15 23:19:09 2022 -0500
+
+    Update README.md
+
+commit 9c21a1bc4ea92254625a46059c30d9c8ae5dd53d
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Thu Dec 15 22:24:54 2022 -0500
+
+    Update README.md
+
+commit 023a28fa22c5492cf2b248f41460577085149dfc
+Author: Sean Scretchen <54426511+sscretchen@users.noreply.github.com>
+Date:   Thu Dec 15 22:19:36 2022 -0500
+
+    Initial commit
+(END)
