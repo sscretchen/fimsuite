@@ -94,6 +94,7 @@ File Deletion. This alert can trigger if files in the baseline are deleted or si
 </p>
 <p align="center">
 3 - Locate directory to monitor and run `captureTheHash.py`
+  
 <img alt="python program start" width="auto" height="300" src="https://user-images.githubusercontent.com/54426511/208777350-7e41e2fb-cb46-4d6d-bda6-88def2527a75.PNG">
 </p>
 <p align="center">
