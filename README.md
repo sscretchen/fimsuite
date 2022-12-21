@@ -93,36 +93,36 @@ File Deletion. This alert can trigger if files in the baseline are deleted or si
 <img alt="python program start" width="auto" height="400" src="https://user-images.githubusercontent.com/54426511/208781722-38c5a377-2d8a-48f4-b3d6-91ea612a2f35.PNG">
 </p>
 <p align="center">
-3 - Locate directory to monitor and run captureTheHash.py
+3 - Locate directory to monitor and run `captureTheHash.py`
 <img alt="python program start" width="auto" height="300" src="https://user-images.githubusercontent.com/54426511/208777350-7e41e2fb-cb46-4d6d-bda6-88def2527a75.PNG">
 </p>
 <p align="center">
-4 - I deleted the generated files and re-ran the program twice. This generates two new files with all hashes captured. One for storage and one to compare for any changes
+4 - I run the program twice. This generates two new files with hashes. One for storage and one to compare for any changes
 </p>
 <p align="center">
 <img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208819595-e0aedef4-010f-43a2-8fa3-db5a891c4247.PNG">
 <img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208819594-3762814c-1b40-4146-b1dc-ddb7acac72f1.PNG">
 </p>
 <p align="center">
-5 - I will be testing "testA.txt". The following is the orignial contents and the files current hash
+5 - Testing `testA.txt`. The following is the original content and the files current hash
 </p>
 <p align="center">
 <img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208820170-1b6355e2-decb-49c6-b316-b1eb1f107b35.PNG">
 <img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208820174-811c3042-49f0-43cb-a4f3-a0d415cc3cbd.PNG">
 </p>
 <p align="center">
-6 - Run new program to check each hash 1-to-1 from both files for a match or mismatch
+6 - Run new program to check each hash in both files for a 1 to 1 match or mismatch
 <img alt="python program start" width="auto" height="300" src="https://user-images.githubusercontent.com/54426511/208821010-4681d2c4-4f00-4cd1-aae3-d9509bd38bd9.PNG">
 </p>
 <p align="center">
-7 - change file contents and re-run program to get new hash value (NOTE the different file "check_stored_hashes.txt" as this will be mapped against the stored file)
+7 - Change the file content and re-run program to get new hash value (NOTE the different file `check_stored_hashes.txt` as this will be mapped against the stored file)
 </p>
 <p align="center">
 <img alt="python program start" width="auto" height="auto" src="https://user-images.githubusercontent.com/54426511/208820821-2544cf52-7da6-490d-b12b-52b49f02b923.PNG">
 <img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208821441-f55ab84c-d057-4d41-a599-b0e36916fe51.PNG">
 </p>
 <p align="center">
-8 - 🥁 Drumroll please..... Re-run the hash check program, and see that testA.txt has a different hash value. Call the SOC team, we have lost File Integrity! 😎 
+8 - 🥁 Drumroll please..... Re-run the hash check program, and you can see that `testA.txt` has a different hash value. Call the SOC team, we have lost File Integrity! 😎 
 <img alt="python program start" width="auto" height="300" src="https://user-images.githubusercontent.com/54426511/208821915-2258a94c-1c10-4556-b4c3-2644abb4a38f.PNG">
 </p>
 
