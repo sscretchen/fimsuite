@@ -1,13 +1,6 @@
 <a name="readme-top"></a>
 # FIM Suite
 
-TABLE OF CONTENTS
-   * [Project Tracker](#project-tracker)
-   * [Environments Used](#environments-used)
-   * [Program Walkthrough](#program-walkthrough)
-      * [Powershell](#powershell)
-      * [Python](#python)   
-
 ### Project details
 This is an effort to emulate FIM tools and better understand how they operate. Depending on the OS environment being monitored, a different solution may be required so I wanted to create different implementations. Starting with two scripting languages I am most familiar with, <b>PowerShell</b> and <b>Python</b>.<br>
 
