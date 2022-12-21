@@ -21,6 +21,7 @@ This is an effort to emulate FIM tools and better understand how they operate. D
 ```
 captureTheHash.py
 hashIt.py
+checkHashedFiles.py
 ```
 
 > PLEASE NOTE - SHA1 was only chosen for its speed. Depending on whats being hashed, I would choose SHA2, Argon2 etc. in a production environment.
@@ -28,8 +29,8 @@ hashIt.py
 | Feature | Status | Notes |
 |:--- | :---: |:--- |
 | Main .py for capturing files | ✅ | |
-| Separate hashing module file | ✅ | |
-| Notification and/or reporting system on changes | ⚙ | |
+| Separate hashing module file | ✅ | I could not find a good way to check the files containing hashes so I created a seperate .py program to do this|
+| Capture file changes | ✅ | This feature is 🍝 code for sure. Theres a Python API out there called watchdog. It monitors files in a similar fashion to my Powershell implementation. Much easier but I wanted to create a solution from scratch. It isnt optimal, but it does work |
 
 <b>Powershell</b>
 
@@ -94,6 +95,35 @@ File Deletion. This alert can trigger if files in the baseline are deleted or si
 <p align="center">
 3 - Locate directory to monitor and run captureTheHash.py
 <img alt="python program start" width="auto" height="300" src="https://user-images.githubusercontent.com/54426511/208777350-7e41e2fb-cb46-4d6d-bda6-88def2527a75.PNG">
+</p>
+<p align="center">
+4 - I deleted the generated files and re-ran the program twice. This generates two new files with all hashes captured. One for storage and one to compare for any changes
+</p>
+<p align="center">
+<img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208819595-e0aedef4-010f-43a2-8fa3-db5a891c4247.PNG">
+<img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208819594-3762814c-1b40-4146-b1dc-ddb7acac72f1.PNG">
+</p>
+<p align="center">
+5 - I will be testing "testA.txt". The following is the orignial contents and the files current hash
+</p>
+<p align="center">
+<img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208820170-1b6355e2-decb-49c6-b316-b1eb1f107b35.PNG">
+<img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208820174-811c3042-49f0-43cb-a4f3-a0d415cc3cbd.PNG">
+</p>
+<p align="center">
+6 - Run new program to check each hash 1-to-1 from both files for a match or mismatch
+<img alt="python program start" width="auto" height="300" src="https://user-images.githubusercontent.com/54426511/208821010-4681d2c4-4f00-4cd1-aae3-d9509bd38bd9.PNG">
+</p>
+<p align="center">
+7 - change file contents and re-run program to get new hash value (NOTE the different file "check_stored_hashes.txt" as this will be mapped against the stored file)
+</p>
+<p align="center">
+<img alt="python program start" width="auto" height="auto" src="https://user-images.githubusercontent.com/54426511/208820821-2544cf52-7da6-490d-b12b-52b49f02b923.PNG">
+<img alt="python program start" width="auto" height="100" src="https://user-images.githubusercontent.com/54426511/208821441-f55ab84c-d057-4d41-a599-b0e36916fe51.PNG">
+</p>
+<p align="center">
+8 - 🥁 Drumroll please..... Re-run the hash check program, and see that testA.txt has a different hash value. Call the SOC team, we have lost File Integrity! 😎 
+<img alt="python program start" width="auto" height="300" src="https://user-images.githubusercontent.com/54426511/208821915-2258a94c-1c10-4556-b4c3-2644abb4a38f.PNG">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
